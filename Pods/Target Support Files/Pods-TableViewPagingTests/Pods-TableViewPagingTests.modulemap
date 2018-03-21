@@ -1,0 +1,6 @@
+framework module Pods_TableViewPagingTests {
+  umbrella header "Pods-TableViewPagingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
